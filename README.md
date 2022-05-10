@@ -1,1 +1,2 @@
-# vetok_project
+# VETOK PROJECT
+Author: Sandra Quevedo
